@@ -1,1 +1,1 @@
-This project is part of JS - Tutorial
+This project is part of JS - Tutorial Course
